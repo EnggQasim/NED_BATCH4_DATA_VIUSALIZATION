@@ -1,0 +1,17 @@
+1685176853486	geckodriver	INFO	Listening on 127.0.0.1:44177
+1685176853494	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "54171" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRUKvup"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1685176854916	Marionette	INFO	Marionette enabled
+1685176854923	Marionette	INFO	Listening on port 37749
+Read port: 37749
+WebDriver BiDi listening on ws://127.0.0.1:54171
+1685176855127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRUKvup/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54171/devtools/browser/4a718ce6-7b09-4a35-82a1-af01bb09d7a2
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 183: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1685176862053	Marionette	INFO	Stopped listening on port 37749
